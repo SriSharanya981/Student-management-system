@@ -1,4 +1,6 @@
-# EduTrack Pro - Student Management System
+## Live Website
+
+https://student-management-system-ng7y.onrender.com# EduTrack Pro - Student Management System
 
 > **Status: Restored to Standalone Web Application with Login Authentication**
 >
